@@ -1,0 +1,14 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "В папке лежит некоторое количество файлов. Каждый файл состоит из следующих строк",
+  "main": "quiz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
